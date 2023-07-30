@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <p align="center">
   <em>
-  Data sciene Specilist with strong expertise in Predictive modelling, Natural Language processing, Deep learning, Text mining, OpenCV, time series forecasting and SQL and extensive exposure in Health Care,Banking & Financial Services and Retail  domains.       
+  Data science Specialist with strong expertise in Predictive modelling, Natural Language processing, Deep learning, Text mining, OpenCV, time series forecasting and SQL and extensive exposure in Health Care,Banking & Financial Services and Retail  domains.       
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
