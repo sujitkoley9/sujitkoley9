@@ -26,6 +26,12 @@
 - **Languages**:
     
     <a href="https://www.python.org"> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" width="40" height="40"/>
+    <a href="https://www.cprogramming.com/"> <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" width="40" height="40"/>
+   
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" width="40" height="40"/>
+    
+
+  
 
 <br>   
     
