@@ -13,7 +13,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I’m currently working at Philips as a Data science specialist<br>
+✔ I’m currently working at Philips as a Data science specialist.<br>
 ✔	Expertise in establishing scalable, efficient, automated processes for model development & validation, model implementation and large-scale data analysis; actively involved in the design, development, deploy a machine learning framework using Python.<br>
 ✔	Strong expertise in Predictive modelling, Natural Language processing, Deep learning, Text mining, OpenCV, time series forecasting and SQL and extensive exposure in Banking & Financial Services, Retail and Health Care domains.<br>
 ✔	Exposure to advanced Excel techniques & tools and various machine learning concepts; skilled in selecting features, building, and optimizing classifiers using machine learning techniques.<br>
