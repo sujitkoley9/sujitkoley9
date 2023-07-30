@@ -1,8 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sujit Koley</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<p align="center">
+  <em>
+  Data sciene Specilist with strong expertise in Predictive modelling, Natural Language processing, Deep learning, Text mining, OpenCV, time series forecasting and SQL and extensive exposure in Health Care,Banking & Financial Services and Retail  domains.       
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkoley9&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkoley9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ I’m currently working in Philips as a Data science specialist<br>
+✔ I use to write coad on [leetcode](https://leetcode.com/sujitkoley9/) <br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Hobby: Reading book, Listening Music, Watching Movie
+ 
+
+
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sujit-koley-091a60152" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="70" /></a>
