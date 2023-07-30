@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently working in Philips as a Data science specialist<br>
+✔ I’m currently working at Philips as a Data science specialist<br>
 ✔ I use to write coad on [leetcode](https://leetcode.com/sujitkoley9/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Hobby: Reading book, Listening Music, Watching Movie
@@ -29,10 +29,8 @@
 </p>
 
  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
 <p align="center">
-
+  
 - **Languages**:
     
     <a href="https://www.python.org"> <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" 
