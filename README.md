@@ -15,9 +15,13 @@
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently working at Philips as a Data science specialist<br>
-✔ I use to write coad on [leetcode](https://leetcode.com/sujitkoley9/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Hobby: Reading book, Listening Music, Watching Movie
+✔	Expertise in establishing scalable, efficient, automated processes for model development & validation, model implementation and large-scale data analysis; actively involved in the design, development, deploy a machine learning framework using Python.
+✔	Strong expertise in Predictive modelling, Natural Language processing, Deep learning, Text mining, OpenCV, time series forecasting and SQL and extensive exposure in Banking & Financial Services, Retail and Health Care domains.       
+✔	Exposure to advanced Excel techniques & tools and various machine learning concepts; skilled in selecting features, building, and optimizing classifiers using machine learning techniques.
+✔	Experience in applying data mining techniques & statistical analysis, to build high-quality risk monitoring solutions integrated with the products.
+✔	Skilled at implementing analytics & predictive analytics techniques, gathering business requirements, statistical solutions, forecasting, conducting analytics & quantitative research, performing data validation, data consolidation, data refinement, data maintenance and implementing solutions.
+✔	Team-based management style coupled with the zeal to drive visions into reality.
+
  
 
 
